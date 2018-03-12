@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cakedesigner.co" resolutions="1x" timestamp="1520862016525">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cakedesigner.co" resolutions="1x" timestamp="1520862366914">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4170045749" ref="index:contact:about:portfolio"/>
@@ -186,7 +186,7 @@
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4264240305" seo="true" mt="1520820050436" redirect="true"/>
+  <file name="index.html" crc="367193157" seo="true" mt="1520862356401" redirect="true"/>
   <file name="about.html" crc="4248114933" seo="true" mt="1520293441980" redirect="true"/>
   <file name="portfolio.html" crc="4113270165" seo="true" mt="1520292242275" redirect="true"/>
   <file name="contact.html" crc="4034578971" seo="true" mt="1520292969446" redirect="true"/>
