@@ -1,0 +1,193 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cakedesigner.co" resolutions="1x" timestamp="1520862016525">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4170045749" ref="index:contact:about:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3806214405" ref="index:contact:about:portfolio"/>
+    <file name="index.css" crc="247637796" ref="index"/>
+    <file name="nomq_index.css" crc="3818081644" ref="index"/>
+    <file name="contact.css" crc="485757589" ref="contact"/>
+    <file name="nomq_contact.css" crc="414817735" ref="contact"/>
+    <file name="about.css" crc="39170954" ref="about"/>
+    <file name="nomq_about.css" crc="4225398507" ref="about"/>
+    <file name="portfolio.css" crc="4090475325" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="413269798" ref="portfolio"/>
+  </folder>
+  <folder name="assets">
+    <file name="sabrina-johnson-resume-1.pdf" crc="98611787" seo="true" mt="1520285379000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="242022427" ref="portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u772.php" crc="128402037" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="olisalogpur copy.png" crc="324513339" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_6116.jpg" crc="4047393842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cakebackgrey.png" crc="4197223491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="violetcake.png" crc="3927274456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cakepink.png" crc="4238950844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indianback.jpg" crc="99106817" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_6116235x314.jpg" crc="4134407582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="me.gif" crc="427196371" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="gauffre.png" crc="4186779589" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u1406.png" crc="133223825" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u1353.jpg" crc="419737007" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake.png" crc="169902366" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gauffre-crop-u1234.png" crc="133776549" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u1412.png" crc="4036039439" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u1359.jpg" crc="4176343874" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake-crop-u1385.png" crc="145817679" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="gauffre384x448.png" crc="4122428596" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u14062.png" crc="361026173" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u13532.jpg" crc="325171192" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake384x415.png" crc="3829968635" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gauffre-crop-u12342.png" crc="234845898" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u14122.png" crc="3758248863" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u13592.jpg" crc="286958360" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake-crop-u13852.png" crc="485500864" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gauffre267x311.png" crc="4138653787" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u14063.png" crc="376120594" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u13533.jpg" crc="516343033" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake267x288.png" crc="408461500" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gauffre-crop-u12343.png" crc="83850212" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarflower-crop-u14123.png" crc="45756804" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2896-crop-u13593.jpg" crc="315457715" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cookiecake-crop-u13853.png" crc="262484624" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1000px-f_iconsvg.png" crc="417746570" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="phoneicon.jpg" crc="63893321" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="in.png" crc="93124647" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="2000px-instagram_logo_2016svg.png" crc="332391871" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4264240305" seo="true" mt="1520820050436" redirect="true"/>
+  <file name="about.html" crc="4248114933" seo="true" mt="1520293441980" redirect="true"/>
+  <file name="portfolio.html" crc="4113270165" seo="true" mt="1520292242275" redirect="true"/>
+  <file name="contact.html" crc="4034578971" seo="true" mt="1520292969446" redirect="true"/>
+</manifest>
