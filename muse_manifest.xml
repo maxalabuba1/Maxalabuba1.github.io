@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cakedesigner.co" resolutions="1x" timestamp="1520862366914">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cakedesigner.co" resolutions="1x" timestamp="1521467399983">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4170045749" ref="index:contact:about:portfolio"/>
-    <file name="nomq_preview_master_a-master.css" crc="3806214405" ref="index:contact:about:portfolio"/>
-    <file name="index.css" crc="247637796" ref="index"/>
-    <file name="nomq_index.css" crc="3818081644" ref="index"/>
-    <file name="contact.css" crc="485757589" ref="contact"/>
-    <file name="nomq_contact.css" crc="414817735" ref="contact"/>
-    <file name="about.css" crc="39170954" ref="about"/>
-    <file name="nomq_about.css" crc="4225398507" ref="about"/>
+    <file name="master_a-master.css" crc="4279895321" ref="index:contact:about:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3930881506" ref="index:contact:about:portfolio"/>
+    <file name="index.css" crc="536715182" ref="index"/>
+    <file name="nomq_index.css" crc="15161775" ref="index"/>
+    <file name="contact.css" crc="4049539814" ref="contact"/>
+    <file name="nomq_contact.css" crc="252509728" ref="contact"/>
+    <file name="about.css" crc="25666499" ref="about"/>
+    <file name="nomq_about.css" crc="96890759" ref="about"/>
     <file name="portfolio.css" crc="4090475325" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="413269798" ref="portfolio"/>
   </folder>
@@ -40,15 +40,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="img_6116.jpg" crc="4047393842" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -73,15 +73,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="img_6116235x314.jpg" crc="4134407582" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -186,8 +186,8 @@
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="367193157" seo="true" mt="1520862356401" redirect="true"/>
-  <file name="about.html" crc="4248114933" seo="true" mt="1520293441980" redirect="true"/>
+  <file name="index.html" crc="4224548638" seo="true" mt="1520863995790" redirect="true"/>
+  <file name="about.html" crc="4030993755" seo="true" mt="1521467225552" redirect="true"/>
   <file name="portfolio.html" crc="4113270165" seo="true" mt="1520292242275" redirect="true"/>
-  <file name="contact.html" crc="4034578971" seo="true" mt="1520292969446" redirect="true"/>
+  <file name="contact.html" crc="35099490" seo="true" mt="1521467303171" redirect="true"/>
 </manifest>
